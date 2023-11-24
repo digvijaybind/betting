@@ -1,0 +1,284 @@
+{
+    "49": {
+        "id": "1",
+        "name": "Mega",
+        "entryFee": 49,
+        "prizePool": 350000,
+        "totalSpots": 10000,
+        "spotsLeft": 0,
+        "leaderboard": [
+            {
+                "id": 1,
+                "rankFrom": 1,
+                "rankTo": 1,
+                "prize": 51000
+            },
+            {
+                "id": 2,
+                "rankFrom": 2,
+                "rankTo": 2,
+                "prize": 5100
+            },
+            {
+                "id": 3,
+                "rankFrom": 3,
+                "rankTo": 4,
+                "prize": 1100
+            },
+            {
+                "id": 4,
+                "rankFrom": 5,
+                "rankTo": 15,
+                "prize": 500
+            },
+            {
+                "id": 5,
+                "rankFrom": 16,
+                "rankTo": 36,
+                "prize": 400
+            },
+            {
+                "id": 6,
+                "rankFrom": 37,
+                "rankTo": 62,
+                "prize": 300
+            },
+            {
+                "id": 7,
+                "rankFrom": 63,
+                "rankTo": 93,
+                "prize": 200
+            },
+            {
+                "id": 8,
+                "rankFrom": 94,
+                "rankTo": 144,
+                "prize": 100
+            },
+            {
+                "id": 9,
+                "rankFrom": 145,
+                "rankTo": 245,
+                "prize": 90
+            },
+            {
+                "id": 10,
+                "rankFrom": 246,
+                "rankTo": 446,
+                "prize": 80
+            },
+            {
+                "id": 11,
+                "rankFrom": 447,
+                "rankTo": 747,
+                "prize": 70
+            },
+            {
+                "id": 12,
+                "rankFrom": 748,
+                "rankTo": 1148,
+                "prize": 60
+            },
+            {
+                "id": 13,
+                "rankFrom": 1149,
+                "rankTo": 2149,
+                "prize": 49
+            },
+            {
+                "id": 14,
+                "rankFrom": 2150,
+                "rankTo": 10000,
+                "prize": 24
+            }
+        ]
+    },
+    "25": {
+        "id": "2",
+        "name": "Premium",
+        "entryFee": 25,
+        "prizePool": 350000,
+        "totalSpots": 20000,
+        "spotsLeft": 0,
+        "leaderboard": [
+            {
+                "id": 1,
+                "rankFrom": 1,
+                "rankTo": 1,
+                "prize": 31000
+            },
+            {
+                "id": 2,
+                "rankFrom": 2,
+                "rankTo": 2,
+                "prize": 21000
+            },
+            {
+                "id": 3,
+                "rankFrom": 3,
+                "rankTo": 4,
+                "prize": 2500
+            },
+            {
+                "id": 4,
+                "rankFrom": 5,
+                "rankTo": 15,
+                "prize": 250
+            },
+            {
+                "id": 5,
+                "rankFrom": 16,
+                "rankTo": 36,
+                "prize": 200
+            },
+            {
+                "id": 6,
+                "rankFrom": 37,
+                "rankTo": 62,
+                "prize": 100
+            },
+            {
+                "id": 7,
+                "rankFrom": 63,
+                "rankTo": 93,
+                "prize": 50
+            },
+            {
+                "id": 8,
+                "rankFrom": 94,
+                "rankTo": 144,
+                "prize": 45
+            },
+            {
+                "id": 9,
+                "rankFrom": 145,
+                "rankTo": 245,
+                "prize": 25
+            },
+            {
+                "id": 10,
+                "rankFrom": 246,
+                "rankTo": 446,
+                "prize": 35
+            },
+            {
+                "id": 11,
+                "rankFrom": 447,
+                "rankTo": 747,
+                "prize": 30
+            },
+            {
+                "id": 12,
+                "rankFrom": 748,
+                "rankTo": 1148,
+                "prize": 30
+            },
+            {
+                "id": 13,
+                "rankFrom": 1149,
+                "rankTo": 2149,
+                "prize": 25
+            },
+            {
+                "id": 14,
+                "rankFrom": 2150,
+                "rankTo": 20000,
+                "prize": 12
+            }
+        ]
+    },
+    "12": {
+        "id": "3",
+        "name": "Chota Packet",
+        "entryFee": 12,
+        "prizePool": 210000,
+        "totalSpots": 25000,
+        "spotsLeft": 0,
+        "leaderboard": [
+            {
+                "id": 1,
+                "rankFrom": 1,
+                "rankTo": 1,
+                "prize": 11000
+            },
+            {
+                "id": 2,
+                "rankFrom": 2,
+                "rankTo": 2,
+                "prize": 5000
+            },
+            {
+                "id": 3,
+                "rankFrom": 3,
+                "rankTo": 4,
+                "prize": 1100
+            },
+            {
+                "id": 4,
+                "rankFrom": 5,
+                "rankTo": 15,
+                "prize": 150
+            },
+            {
+                "id": 5,
+                "rankFrom": 16,
+                "rankTo": 56,
+                "prize": 90
+            },
+            {
+                "id": 6,
+                "rankFrom": 57,
+                "rankTo": 107,
+                "prize": 80
+            },
+            {
+                "id": 7,
+                "rankFrom": 108,
+                "rankTo": 168,
+                "prize": 70
+            },
+            {
+                "id": 8,
+                "rankFrom": 169,
+                "rankTo": 329,
+                "prize": 60
+            },
+            {
+                "id": 9,
+                "rankFrom": 330,
+                "rankTo": 340,
+                "prize": 50
+            },
+            {
+                "id": 10,
+                "rankFrom": 341,
+                "rankTo": 641,
+                "prize": 40
+            },
+            {
+                "id": 11,
+                "rankFrom": 642,
+                "rankTo": 442,
+                "prize": 30
+            },
+            {
+                "id": 12,
+                "rankFrom": 443,
+                "rankTo": 943,
+                "prize": 20
+            },
+            {
+                "id": 13,
+                "rankFrom": 944,
+                "rankTo": 3944,
+                "prize": 10
+            },
+            {
+                "id": 14,
+                "rankFrom": 3945,
+                "rankTo": 25000,
+                "prize": 5
+            }
+        ]
+    }
+}

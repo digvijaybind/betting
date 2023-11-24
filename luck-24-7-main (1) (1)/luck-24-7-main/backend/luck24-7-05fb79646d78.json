@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "luck24-7",
+    "private_key_id": "05fb79646d7883a9f71ebba6bd8dd37640fd5e5f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFHPN3XbGnD0eu\ncRZBbvrCDhDrDFmgPp9W2A/LDmRj5NIZoQ6N2+rgDQuFAgGrmxIPLMjV3QK+BKjR\nm4UR/DPgdg4KD50fezJR2QYfiP0agmHRhGl4k2bcmJmBXad7jCtDJmNrpM8BzPpz\nYAZwPWn9lDujewuJdBzzzL7WCsOtKc8MKM9PiS16cN88NXt6UYXSILZLPiFXqVhW\nkC9mtO8USpWNBCE+1TJWiBiTvZfFwVWpe0ZBvMCKrcUFDmdr6duR7xA5vcH6O3bm\nSxNxFQILdrkTuuAGbliWjv8E1Ot0aY6CpTrZBhcjrEecbHshaEgDfE49TCvuH94z\n0Qzc/bmHAgMBAAECggEAAZIu5Td5gkwEbti8DcExjmZyJHE9Qb0Z01SbkvwwWrMn\nNkWOKg/dGtKgoudAsNb0EOvKpDQKdQ3wnE6muclCupa1crn5mwNkVJ9bD7DPKbpt\nMrA4xj6JrA04rk52EzDurYzwpTuzisflKs7tnw0GQhthiBhS1ZxxBDY4yZS7ssmw\nU88d67G/JysnEgwvWMPSnlXtOvZydwOSixZLxwOUM5jf13smcXCcropZ3XrlHgNo\nFXI/IyUjm9EyTBgM3M56a3IcgnKxY27etq8gM2gWSqxXCvydMRwCsAoTn07aBqsx\nPL48mHGjfDFubPNJL7zWTtzf6dTjCkldWlE90F3x2QKBgQDtKWGcjKLyG7AtI0wV\nB3t7fve3eWIBSNiyLQh8HCCrAb8uZsaPQELhqpe8QvOtHZUHXIamF7jU4c+UN2L+\nxcW/N9tjEbycpQau5JiyHXoF8vpX7fc9+mBTi1+931N5snyLIkyiblS0wFeKBP6q\nlNMPSweK7If+qvKx06JTcX/fvwKBgQDUxTFsr4kmJNXpKUhCtW62TFdQ8/AjhUJW\nUFOmAocH3xkwHBggr38aVnBjNUsCpvzcRQeH6yWjjxdfhGjrGUbPU8sjPcd4t5Oo\n7FpcRJFeiu/mBha1LjK4zwSMpxXfDYN0nwOnrRcGTkwyKhWlR6KFq+URIKDFmTxW\nOpD2uDUYOQKBgGbTnVXiCDhO1vkLJ86qWti1uTPctih2bDX8noQpMeTTMhAtUYQE\nybrMW1Ot97ckb1wsutjCyknKylSqGwr5tv5senue0hdc2eP0i1wWubRgoDiFncBK\nkX9Hm7BYZvoJ8EPnEDERAzsHdi0Kc1yEgGpODqwmV+SMPAPsDaJ+QIJDAoGBAIG8\nb6Oe8RiyE0DlrCsI6CX+LKuu4nk2MzngJvEtz1osXfZo2wlrGSxdEpBbmY5Xdg11\nhd8JsdymTpEucq8PrY6TwGSPsgZYoY+59msWYDFutFLk2YnGTqVDjbmZ1As6+THu\nF9NxBn4Q1gMsiCBMqrupEba812tFQXYupd/aeH15AoGBANtqJ+A2lM0+antqZQs2\ngXeDf9wJgscF1FUE+9bVAjS8QNSQ/KnVNffUKKX+ioMA47OgNakGDcG7JgaJpEm/\n4RamManVE5I7+caQuo7xvT6bve4x7GJvhA+SnC8jUA1bxHxSYMrdd2RG+5TxQZEj\nhJ1Hd84Ph88e8pPM3Cx61qFR\n-----END PRIVATE KEY-----\n",
+    "client_email": "flask-bot@luck24-7.iam.gserviceaccount.com",
+    "client_id": "102272967506160209595",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flask-bot%40luck24-7.iam.gserviceaccount.com"
+}

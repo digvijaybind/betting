@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "605607286538",
+    "project_id": "luck24-7",
+    "storage_bucket": "luck24-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605607286538:android:508ba3cb9c38ebd2b48cf3",
+        "android_client_info": {
+          "package_name": "com.luck247_rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605607286538-fvphu3mbv03m2n9kqukuqg6vm7umicpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luck247_rn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "605607286538-8moil8odo2ufbmde143mi0crfnurlod3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1pufvrbIxcCoK8wpmPpxM0I3RIc4QL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605607286538-8moil8odo2ufbmde143mi0crfnurlod3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605607286538-n8t8g71mi4smoq4fqqaeicb6ch82tgv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Luck247-RN"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

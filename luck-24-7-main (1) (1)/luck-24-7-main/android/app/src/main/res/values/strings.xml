@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Luck24seven</string>
+    <string name="facebook_app_id">1010563980125412</string>
+    <string name="fb_login_protocol_scheme">fb1010563980125412</string>
+    <string name="facebook_client_token">8cf06ed3014266326fbd702fa2da890c</string>
+
+
+</resources>

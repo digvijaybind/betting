@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605607286538-n8t8g71mi4smoq4fqqaeicb6ch82tgv5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605607286538-n8t8g71mi4smoq4fqqaeicb6ch82tgv5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>605607286538-3k10r6t5th94lb6dbislok4rhbscdh9g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAt7ztx8S5iFRVlbj3qw_2cD-2YodtMyss</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605607286538</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Luck247-RN</string>
+	<key>PROJECT_ID</key>
+	<string>luck24-7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>luck24-7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605607286538:ios:3b1879384e812264b48cf3</string>
+</dict>
+</plist>
